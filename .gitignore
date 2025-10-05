@@ -1,0 +1,17 @@
+# Dependencies
+/frontend/node_modules
+/.pnp
+.pnp.js
+
+# Build output
+/frontend/build
+
+# Python
+/.venv/
+__pycache__/
+
+# Raw Data
+/data-processing/raw/
+
+# Misc
+.DS_Store
